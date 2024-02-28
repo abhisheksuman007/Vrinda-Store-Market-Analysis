@@ -1,7 +1,7 @@
-# Vrinda Store Market Analysis
-## Excel Dataset Download (google drive): https://bit.ly/3Ypatqu 
+# Vrinda Store Market Analysis - Excel Project
+#### Excel Dataset Download (google drive): https://bit.ly/3Ypatqu 
 
-# Annual Report of Vrinda Store
+##### Annual Report of Vrinda Store - .png is added
 
 First of all,
 A thorough examination of sales data from numerous e-commerce sites, such as Amazon, Myntra, Flipkart, Ajio, Meesho, and others, is summarized in the "Vrinda Store Annual Report". This study attempts to offer meaningful insights about the success of Vrinda Store over a year in various product categories and sales channels through rigorous data cleaning, processing, and analysis in Excel.
